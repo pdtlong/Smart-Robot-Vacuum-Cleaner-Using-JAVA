@@ -1,0 +1,37 @@
+        NodeList[0][6].iswall = true;
+		
+		NodeList[1][0].iswall = true;
+		NodeList[1][1].iswall = true;
+		NodeList[1][3].iswall = true;
+		NodeList[1][6].iswall = true;
+		
+		NodeList[2][1].iswall = true;
+		NodeList[2][3].iswall = true;
+		NodeList[2][4].iswall = true;
+		NodeList[2][5].iswall = true;
+		NodeList[2][6].iswall = true;
+		
+		NodeList[3][6].iswall = true;
+		
+		NodeList[4][0].iswall = true;
+		NodeList[4][1].iswall = true;
+		NodeList[4][2].iswall = true;
+		NodeList[4][6].iswall = true;
+		NodeList[4][8].iswall = true;
+		NodeList[4][9].iswall = true;
+		
+		NodeList[5][6].iswall = true;
+		
+		NodeList[6][0].iswall = true;
+		NodeList[6][1].iswall = true;
+		NodeList[6][2].iswall = true;
+		NodeList[6][9].iswall = true;
+		
+		NodeList[8][3].iswall = true;
+		NodeList[8][6].iswall = true;
+		NodeList[8][7].iswall = true;
+		NodeList[8][8].iswall = true;
+		
+		NodeList[9][3].iswall = true;
+		NodeList[9][6].iswall = true;
+		
