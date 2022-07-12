@@ -1,4 +1,4 @@
-# Smart Robot Vacuum Cleaner Using JAVA
+# Smart Robot Vacuum Cleaner Using Java
 ---
 This is my first AI Project (late 2018) with my close friend about building a simulation of a smart home cleaning robot based on the **Spiral Spanning Tree Coverage (STC)** algorithm.
 
