@@ -22,4 +22,4 @@ Because of the time limit and project scope, the house map will be provided for 
 now the problem is how to move around the whole house without repeating again. Otherwise, make sure to perform all the remaining tasks assigned below:
 
 ## DEMO:
-<video src="https://github.com/pdtlong/Smart-Robot-Vacuum-Cleaner-Using-JAVA/blob/main/Smart%20Robot%20Cleaner%202022-07-12%2022-12-38.mp4"></video>
+<video src="./Smart_Robot Cleaner_demo.mp4"></video>
