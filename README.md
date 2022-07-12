@@ -22,6 +22,5 @@ Because of the time limit and project scope, the house map will be provided for 
 now the problem is how to move around the whole house without repeating again. Otherwise, make sure to perform all the remaining tasks assigned below:
 
 ## DEMO:
-
-<img src="https://user-images.githubusercontent.com/55480300/178573108-eb68d041-4457-4c5d-a4aa-ba3bc6203ff9.gif" width="550"/>
+https://user-images.githubusercontent.com/55480300/178575965-b4d72ee8-bd24-4299-b806-75a2195afdff.mp4
 
