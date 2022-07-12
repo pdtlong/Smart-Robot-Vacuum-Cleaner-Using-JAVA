@@ -21,6 +21,14 @@ or
 Because of the time limit and project scope, the house map will be provided for the robot. So it will run offline
 now the problem is how to move around the whole house without repeating again. Otherwise, make sure to perform all the remaining tasks assigned below:
 
+-----
 ## DEMO:
+
+- **Add VB** : Used to add stains on the floor
+- **Add VC**: Used to add moving obstacles
+- **Start**: to start cleaning
+- **Quick**: Increases movement speed x2
+- **Power**: the power level can automatically set the battery for the robot (ex: 80)
+
 https://user-images.githubusercontent.com/55480300/178575965-b4d72ee8-bd24-4299-b806-75a2195afdff.mp4
 
